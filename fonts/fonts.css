@@ -1,0 +1,22 @@
+@font-face {
+  font-family: 'EB Garamond';
+  src: url(/fonts/ebgaramondmedium.ttf) format('ttf');
+  src: url(/fonts/ebgaramondmedium.woff) format('woff');
+  src: url(/fonts/ebgaramondmedium.woff2) format('woff2');
+  font-weight: 500;
+}
+@font-face {
+  font-family: 'EB Garamond';
+  src: url(/fonts/ebgaramondregular.ttf) format('ttf');
+  src: url(/fonts/ebgaramondregular.woff) format('woff');
+  src: url(/fonts/ebgaramondregular.woff2) format('woff2');
+  font-weight: 400;
+}
+
+@font-face {
+  font-family: Inter;
+  src: url(/fonts/interbold.ttf) format('ttf');
+  src: url(/fonts/interbold.woff) format('woff');
+  src: url(/fonts/interbold.woff2) format('woff2');
+  font-weight: 700;
+}
